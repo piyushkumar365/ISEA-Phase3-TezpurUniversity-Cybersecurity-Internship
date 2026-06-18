@@ -1,0 +1,7 @@
+roll_no,name,mode,message_size,total_messages,average_response_time,throughput_bytes_per_sec
+CSB24051,Piyush Kumar,persistent,128,10,0.20260996818542482,631.7556887569166
+CSB24051,Piyush Kumar,persistent,512,10,0.202089524269104,2533.5306312969333
+CSB24051,Piyush Kumar,persistent,1024,10,0.20204906463623046,5068.075924249447
+CSB24051,Piyush Kumar,new_connection,128,10,0.20244007110595702,632.2858873775284
+CSB24051,Piyush Kumar,new_connection,512,10,0.20220563411712647,2532.075835747618
+CSB24051,Piyush Kumar,new_connection,1024,10,0.202398419380188,5059.328047797173
