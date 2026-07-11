@@ -1,5 +1,6 @@
 GUI-Based Multi-Client Chat Application Using TCP
 
+# project title
 A GUI-based Multi-Client Chat Application developed using Python, Tkinter, and TCP Socket Programming. This project is an extension of Assignment 5, where the terminal-based client has been replaced with a graphical user interface while reusing the existing server implementation. The application supports multiple clients communicating simultaneously through a central server using reliable TCP connections.
 
 # Objective
@@ -15,12 +16,11 @@ Join and leave notifications
 Chat history logging
 Background message receiving
 Responsive graphical interface
-Software Requirements
-Operating System
-Ubuntu 22.04 or later
+
+# Software Requirements
+Operating System Ubuntu 22.04 or later
 Linux with Mininet installed
-Programming Language
-Python 3.x
+Programming Language Python 3.x
 Python Modules
 socket
 threading
@@ -36,7 +36,8 @@ IDE (Optional)
 Visual Studio Code
 PyCharm
 Any Python IDE
-Network Topology
+
+# Network Topology
 The application was tested using Mininet with one server and four clients.
 
                  +----------------------+
@@ -109,7 +110,7 @@ Disconnect Button
 Connection Status Label
 A background thread continuously receives incoming messages without blocking the GUI.
 
-Execution Steps
+# Execution Steps
 Step 1
 Start the server
 
@@ -227,10 +228,12 @@ Message notifications
 Database storage
 User profiles
 Dark mode interface
-Conclusion
+
+# Conclusion
 This project successfully converts a terminal-based TCP chat application into a graphical desktop application using Python Tkinter. The networking logic from Assignment 5 was reused with minimal modifications, while the client interface was redesigned to improve usability. The application supports multiple simultaneous users, broadcast and private messaging, online user management, and real-time communication using TCP sockets. Background threading ensures that the graphical interface remains responsive during message reception, and testing with Mininet and Wireshark verified the correctness and reliability of the implementation.
 
-Author
+# Author
+
 Name: Piyush Kumar
 
 Roll Number: CSB24051
