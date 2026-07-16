@@ -1,0 +1,31 @@
+[2026-07-16 11:29:43] New user registered: piyush from IP 10.0.0.2
+[2026-07-16 11:33:34] Failed login (1/5) for piyush_k from 10.0.0.3
+[2026-07-16 11:34:25] New user registered: piyush_k from IP 10.0.0.3
+[2026-07-16 11:39:21] New user registered: jack from IP 10.0.0.4
+[2026-07-16 11:40:44] Successful login for piyush_k from 10.0.0.3
+[2026-07-16 11:40:45] Session started: piyush_k (10.0.0.3:34184)
+[2026-07-16 11:41:18] Successful login for piyush from 10.0.0.2
+[2026-07-16 11:41:18] Session started: piyush (10.0.0.2:47886)
+[2026-07-16 11:41:28] Successful login for jack from 10.0.0.4
+[2026-07-16 11:41:28] Session started: jack (10.0.0.4:41496)
+[2026-07-16 11:43:25] User jack logged out normally.
+[2026-07-16 11:43:25] Session ended: jack
+[2026-07-16 11:47:46] New user registered: marky from IP 10.0.0.5
+[2026-07-16 11:47:50] Successful login for marky from 10.0.0.5
+[2026-07-16 11:47:50] Session started: marky (10.0.0.5:42110)
+[2026-07-16 11:50:06] Session timeout for piyush due to inactivity.
+[2026-07-16 11:50:06] Session ended: piyush
+[2026-07-16 11:50:27] Session timeout for piyush_k due to inactivity.
+[2026-07-16 11:50:27] Session ended: piyush_k
+[2026-07-16 11:52:50] Session timeout for marky due to inactivity.
+[2026-07-16 11:52:50] Session ended: marky
+[2026-07-16 12:19:07] Successful login for piyush from 10.0.0.2
+[2026-07-16 12:19:07] Session started: piyush (10.0.0.2:35958)
+[2026-07-16 12:19:38] Failed login (1/5) for jack from 10.0.0.3
+[2026-07-16 12:19:45] Failed login (2/5) for jack from 10.0.0.3
+[2026-07-16 12:19:49] Failed login (3/5) for jack from 10.0.0.3
+[2026-07-16 12:19:56] Failed login (4/5) for jack from 10.0.0.3
+[2026-07-16 12:20:03] Failed login (5/5) for jack from 10.0.0.3
+[2026-07-16 12:20:03] IP 10.0.0.3 temporarily blocked for 60s
+[2026-07-16 12:24:07] Session timeout for piyush due to inactivity.
+[2026-07-16 12:24:07] Session ended: piyush

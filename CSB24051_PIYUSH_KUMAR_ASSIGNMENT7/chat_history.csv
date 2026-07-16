@@ -1,0 +1,17 @@
+timestamp,sender,receiver,message_type,message
+2026-07-16 11:40:45,SERVER,ALL,system,piyush_k joined the chat
+2026-07-16 11:41:18,SERVER,ALL,system,piyush joined the chat
+2026-07-16 11:41:28,SERVER,ALL,system,jack joined the chat
+2026-07-16 11:41:52,jack,ALL,broadcast,hello everyone
+2026-07-16 11:43:25,SERVER,ALL,system,jack left the chat
+2026-07-16 11:44:38,piyush,ALL,broadcast,hello buddy
+2026-07-16 11:44:48,piyush_k,ALL,broadcast,"hello , nice to meet u"
+2026-07-16 11:44:51,piyush_k,ALL,broadcast,how are u
+2026-07-16 11:45:06,piyush,ALL,broadcast,"i am fine, how's u"
+2026-07-16 11:45:27,piyush_k,ALL,broadcast,"fine, ThankYou."
+2026-07-16 11:47:50,SERVER,ALL,system,marky joined the chat
+2026-07-16 11:50:06,SERVER,ALL,system,piyush left the chat
+2026-07-16 11:50:27,SERVER,ALL,system,piyush_k left the chat
+2026-07-16 11:52:50,SERVER,ALL,system,marky left the chat
+2026-07-16 12:19:07,SERVER,ALL,system,piyush joined the chat
+2026-07-16 12:24:07,SERVER,ALL,system,piyush left the chat
