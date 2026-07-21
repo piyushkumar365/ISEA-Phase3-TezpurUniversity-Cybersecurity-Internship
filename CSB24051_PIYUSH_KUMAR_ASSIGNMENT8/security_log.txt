@@ -1,0 +1,28 @@
+16:07:12,LOGIN_FAILED,piyush,10.0.0.2,invalid credentials
+16:07:12,LOGOUT,piyush,10.0.0.2,disconnected
+16:08:35,LOGIN_FAILED,piyush,10.0.0.2,invalid credentials
+16:08:35,LOGOUT,piyush,10.0.0.2,disconnected
+16:09:35,LOGIN_FAILED,piyush,10.0.0.2,invalid credentials
+16:09:35,LOGOUT,piyush,10.0.0.2,disconnected
+16:09:38,LOGIN_FAILED,piyush,10.0.0.2,invalid credentials
+16:09:38,LOGOUT,piyush,10.0.0.2,disconnected
+[2026-07-21 16:29:36] SUCCESSFUL_LOGIN | User: piyush | Host: 10.0.0.2:36336 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:30:21] SUCCESSFUL_LOGIN | User: rahul | Host: 10.0.0.3:55150 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:31:14] SUCCESSFUL_LOGIN | User: raj | Host: 10.0.0.4:54832 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:31:38] SUCCESSFUL_LOGIN | User: yuvi | Host: 10.0.0.5:46408 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:33:05] SUCCESSFUL_LOGIN | User: kohli | Host: 10.0.0.6:33532 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:33:39] SUCCESSFUL_LOGIN | User: dhoni | Host: 10.0.0.7:39754 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:34:01] SUCCESSFUL_LOGIN | User: rohit | Host: 10.0.0.8:58988 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:34:23] SUCCESSFUL_LOGIN | User: dhawan | Host: 10.0.0.9:41182 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:34:57] SUCCESSFUL_LOGIN | User: tendukar | Host: 10.0.0.10:42620 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:35:33] SESSION_TIMEOUT | User: rahul | Host: 10.0.0.3:55150 | Info: Disconnected due to inactivity.
+[2026-07-21 16:35:43] SUCCESSFUL_LOGIN | User: dravid | Host: 10.0.0.11:56584 | Info: Session established successfully (REGISTERED).
+[2026-07-21 16:35:53] SESSION_TIMEOUT | User: piyush | Host: 10.0.0.2:36336 | Info: Disconnected due to inactivity.
+[2026-07-21 16:36:23] SESSION_TIMEOUT | User: raj | Host: 10.0.0.4:54832 | Info: Disconnected due to inactivity.
+[2026-07-21 16:37:25] USER_LOGOUT | User: yuvi | Host: 10.0.0.5:46408 | Info: User requested regular session termination.
+[2026-07-21 16:38:23] SESSION_TIMEOUT | User: kohli | Host: 10.0.0.6:33532 | Info: Disconnected due to inactivity.
+[2026-07-21 16:39:03] SESSION_TIMEOUT | User: rohit | Host: 10.0.0.8:58988 | Info: Disconnected due to inactivity.
+[2026-07-21 16:40:03] SESSION_TIMEOUT | User: tendukar | Host: 10.0.0.10:42620 | Info: Disconnected due to inactivity.
+[2026-07-21 16:40:21] USER_LOGOUT | User: dhoni | Host: 10.0.0.7:39754 | Info: User requested regular session termination.
+[2026-07-21 16:41:03] SESSION_TIMEOUT | User: dravid | Host: 10.0.0.11:56584 | Info: Disconnected due to inactivity.
+[2026-07-21 16:41:13] SESSION_TIMEOUT | User: dhawan | Host: 10.0.0.9:41182 | Info: Disconnected due to inactivity.

@@ -1,0 +1,19 @@
+timestamp,sender,receiver,message_type,message
+2026-07-21 16:30:32,rahul,ALL,broadcast,hello bddy
+2026-07-21 16:30:48,piyush,ALL,broadcast,hrllo dear
+2026-07-21 16:31:22,raj,ALL,broadcast,hi
+2026-07-21 16:32:33,yuvi,ALL,broadcast,hi
+2026-07-21 16:33:14,kohli,ALL,broadcast,hi nice to meet al
+2026-07-21 16:35:33,rahul,Server,system_leave,rahul disconnected.
+2026-07-21 16:35:53,piyush,Server,system_leave,piyush disconnected.
+2026-07-21 16:35:56,dravid,ALL,broadcast,hi every budd
+2026-07-21 16:36:09,dhawan,ALL,broadcast,hello
+2026-07-21 16:36:23,raj,Server,system_leave,raj disconnected.
+2026-07-21 16:36:23,dhoni,ALL,broadcast,hello
+2026-07-21 16:37:25,yuvi,Server,system_leave,yuvi disconnected.
+2026-07-21 16:38:23,kohli,Server,system_leave,kohli disconnected.
+2026-07-21 16:39:03,rohit,Server,system_leave,rohit disconnected.
+2026-07-21 16:40:03,tendukar,Server,system_leave,tendukar disconnected.
+2026-07-21 16:40:21,dhoni,Server,system_leave,dhoni disconnected.
+2026-07-21 16:41:03,dravid,Server,system_leave,dravid disconnected.
+2026-07-21 16:41:13,dhawan,Server,system_leave,dhawan disconnected.

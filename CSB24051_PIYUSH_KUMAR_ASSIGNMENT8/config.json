@@ -1,0 +1,22 @@
+{
+    "network": {
+        "host": "0.0.0.0",
+        "port": 5000,
+        "max_queue_backlog": 25,
+        "max_workers": 20
+    },
+    "security": {
+        "lockout_limit": 5,
+        "lockout_duration_minutes": 5,
+        "inactivity_timeout_minutes": 5,
+        "socket_timeout_seconds": 600.0,
+        "max_msg_length": 1000,
+        "rate_limit_max_msgs": 5,
+        "rate_limit_window_seconds": 3
+    },
+    "storage": {
+        "history_file": "chat_history.csv",
+        "credentials_file": "users.csv",
+        "security_log": "security_log.txt"
+    }
+}
